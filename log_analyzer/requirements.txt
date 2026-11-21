@@ -1,0 +1,2 @@
+# Projekt wykorzystuje wyłącznie bibliotekę standardową Pythona 3.12+.
+# Brak wymaganych pakietów zewnętrznych.
